@@ -1,0 +1,160 @@
+
+
+.header{
+    height:80px;
+    padding-right:40px;
+    padding-left:40px;
+    background-color:#ceb8a6;
+    opacity:0.8; 
+}
+
+.header-logo{
+    float:left;
+    padding:20px 15px 10px 10px;
+    font-size:30px;
+    
+}
+
+.header-list{
+    float:left;
+}
+
+.header-list li{
+    float:left;
+    padding:20px 130px;
+    list-style:none;
+    
+}
+
+.main{
+    height:1000px;
+    
+}
+
+.top-wrapper{
+    background-image:url("https://images.pexels.com/photos/450038/pexels-photo-450038.jpeg?cs=srgb&dl=pexels-ar%C4%B1n-turkay-450038.jpg&fm=jpg");
+    background-size:cover;
+    opacity:0.8;
+    height:300px;
+}
+
+.top-wrapper h1{
+    width:600px;
+    margin:0 auto;
+    padding-left:140px;
+    padding-top:50px;
+    padding-bottom:20px;
+    font-size:50px;
+}
+
+.top-wrapper p{
+    width:300px;
+    font-size:25px;
+    margin:0 auto;
+    text-align:center;
+}
+
+span{
+    color:#f49f95;
+}
+
+.heading h2{
+    font-size:35px;
+    margin:0 auto;
+    width:300px;
+    padding-top:35px;
+    padding-left:200px;
+    padding-bottom:20px;
+}
+
+.blog-item{
+    float:left;
+    margin:20px 20px 50px 100px;
+    background-color:#ede9e4;
+    font-family:"Comic Sans MS";
+    letter-spacing:2px;
+    text-align:center;
+}
+
+.middle-wrapper{
+    padding-right:40px;
+    padding-left:40px;
+    background-color:#ede9e4;
+    height:700px;
+    padding-bottom:50px;
+    
+}
+
+.bottom-wrapper{
+    background-image:url("https://images.pexels.com/photos/5231851/pexels-photo-5231851.jpeg?cs=srgb&dl=pexels-jess-loiterton-5231851.jpg&fm=jpg");
+    background-size:cover;
+    opacity:0.8;
+    text-align:center;
+    padding-bottom:40px;
+    height:280px;
+}
+
+
+
+.message{
+   padding:10px 15px;
+   background-color:#ceb8a6;
+   cursor: pointer;
+   box-shadow: 0 7px #bc9e80;
+   color:black;
+   border-radius:10px;
+}
+
+.message:active{
+    position: relative;
+    top: 7px;
+    box-shadow: none;
+}
+
+.bottom-wrapper h1{
+    font-size:50px;
+    padding-top:50px;
+    
+}
+
+.bottom-wrapper p{
+    margin-bottom:65px;
+    font-size:25px;
+}
+
+.footer{
+    background-color:#ceb8a6;
+    position:relative;
+    height:470px;
+}
+
+
+.footer h2{
+    width:300px;
+    margin:0 auto;
+    font-size:35px;
+    padding-top:20px;
+    padding-left:60px;
+    padding-bottom:10px;
+}
+
+.footer h3{
+    font-size:20px;
+}
+
+input, textarea{
+    border:1px solid #ceb8a6;
+    text-align:center;
+    border-radius:5px;
+    
+}
+
+
+.contact-form{
+    background-color:#ede9e4;
+    width:280px;
+    padding:3px 1px 60px 20px;
+    margin-left:20px;
+    margin-bottom:30px;
+    height:325px;
+}

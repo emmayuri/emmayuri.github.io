@@ -158,3 +158,8 @@ input, textarea{
     margin-bottom:30px;
     height:325px;
 }
+
+@media(max-width:670px){
+    .blog-item{
+        width:100%;
+}
